@@ -2,7 +2,7 @@
 
 # Inhaltsverzeichnis
 
-1. [Music Browser] (#Music Browser)
+1. [Music Browser] (#musicbrowser)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 
