@@ -2,11 +2,11 @@
 
 # Inhaltsverzeichnis
 
-1. [Music Browser] (#musicbrowser)
+1. [Music Browser](#musicbrowser)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 
-### Music Browser
+### Music Browser 
 
 Normal, dann **fett** und jetz *kursiv* und wieder hier ***fett und kursiv***, jetzt wieder normal
 
