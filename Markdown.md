@@ -355,7 +355,7 @@ Die Firewall ist aktiv
     | -------------------------------------------------------- | ------------------------------------------------------------ |
     | Vom Client (Host PC) auf http://localhost:8080 zugreifen | Funktioniert.Jedoch wird das PHP File als Code angezeigt |
     | vagrant ssh ammad, sudo -i                                | Funktioniert                                                 |
-    | ufw status (Firewall und die Rules abchecken)            | root@ammad:~# ufw status
+    | ufw status (Firewall und die Rules abchecken)            | root@ammad:~# ufw status |
 <br/>Status: active
 To                         Action      From
 --                         ------      ----
